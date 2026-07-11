@@ -1,0 +1,562 @@
+[
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Jordbær",
+    "qty": "1 kurv",
+    "id": "item-0"
+  },
+  {
+    "store": "local",
+    "category": "Frukt og grønt",
+    "name": "Jordbær",
+    "qty": "1 kurv midt i uken",
+    "id": "item-1"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Blåbær",
+    "qty": "1 kurv",
+    "id": "item-2"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Bringebær",
+    "qty": "1 kurv",
+    "id": "item-3"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Vannmelon",
+    "qty": "1 liten eller ½ stor",
+    "id": "item-4"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Honningmelon",
+    "qty": "1 stk",
+    "id": "item-5"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Fersken/nektariner",
+    "qty": "6 stk totalt",
+    "id": "item-6"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Sitron",
+    "qty": "3 stk",
+    "id": "item-7"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Hjertesalat",
+    "qty": "1 pakke",
+    "id": "item-8"
+  },
+  {
+    "store": "local",
+    "category": "Frukt og grønt",
+    "name": "Salat/ruccola",
+    "qty": "1 pose ved behov",
+    "id": "item-9"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Små tomater",
+    "qty": "1 pakke",
+    "id": "item-10"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Store tomater",
+    "qty": "4 stk",
+    "id": "item-11"
+  },
+  {
+    "store": "local",
+    "category": "Frukt og grønt",
+    "name": "Tomater",
+    "qty": "2–3 stk ved behov",
+    "id": "item-12"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Agurk",
+    "qty": "1 stk",
+    "id": "item-13"
+  },
+  {
+    "store": "local",
+    "category": "Frukt og grønt",
+    "name": "Agurk",
+    "qty": "1 stk ved behov",
+    "id": "item-14"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Paprika",
+    "qty": "3 stk",
+    "id": "item-15"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Squash",
+    "qty": "2 stk",
+    "id": "item-16"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Avokado",
+    "qty": "3 stk",
+    "id": "item-17"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Maiskolber",
+    "qty": "6 stk",
+    "id": "item-18"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Asparges",
+    "qty": "2 bunter",
+    "id": "item-19"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Gul løk",
+    "qty": "2 stk",
+    "id": "item-20"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Hvitløk",
+    "qty": "1 stk",
+    "id": "item-21"
+  },
+  {
+    "store": "maximat",
+    "category": "Frukt og grønt",
+    "name": "Dill",
+    "qty": "1 bunt",
+    "id": "item-22"
+  },
+  {
+    "store": "home",
+    "category": "Frukt og grønt",
+    "name": "Bakepoteter",
+    "qty": "Bruk dem dere har",
+    "id": "item-23"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Økologisk smør",
+    "qty": "1 pakke",
+    "id": "item-24"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Melk",
+    "qty": "2 liter",
+    "id": "item-25"
+  },
+  {
+    "store": "local",
+    "category": "Meieri og egg",
+    "name": "Melk",
+    "qty": "1 liter senere",
+    "id": "item-26"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Egg",
+    "qty": "15 stk",
+    "id": "item-27"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Burrata",
+    "qty": "1 stk",
+    "id": "item-28"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Mozzarella",
+    "qty": "1 pakke",
+    "id": "item-29"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Fetaost",
+    "qty": "1 pakke, ca. 200 g",
+    "id": "item-30"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Kremost",
+    "qty": "1 liten",
+    "id": "item-31"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Lagret cheddar",
+    "qty": "1 liten bit/pakke",
+    "id": "item-32"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Västerbottensost",
+    "qty": "ca. 250 g",
+    "id": "item-33"
+  },
+  {
+    "store": "maximat",
+    "category": "Meieri og egg",
+    "name": "Brie",
+    "qty": "ca. 200 g",
+    "id": "item-34"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Parmaskinke",
+    "qty": "150–200 g",
+    "id": "item-35"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Italiensk salami",
+    "qty": "150–200 g",
+    "id": "item-36"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Røkelaks",
+    "qty": "200–300 g",
+    "id": "item-37"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Kalix löjrom",
+    "qty": "1 lite glass – kun ved god pris",
+    "id": "item-38"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Castelvetrano-oliven",
+    "qty": "1 glass",
+    "id": "item-39"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Cornichons",
+    "qty": "1 lite glass",
+    "id": "item-40"
+  },
+  {
+    "store": "maximat",
+    "category": "Delikatesse",
+    "name": "Artisjokkhjerter",
+    "qty": "1 lite glass",
+    "id": "item-41"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "Entrecôte",
+    "qty": "ca. 1,6 kg",
+    "id": "item-42"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "Kyllinglårfilet",
+    "qty": "ca. 2,6–3,0 kg",
+    "id": "item-43"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "Laksefilet",
+    "qty": "ca. 2,4–2,8 kg",
+    "id": "item-44"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "Hamburgere",
+    "qty": "12 store burgere",
+    "id": "item-45"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "T-ben / Côte de Boeuf",
+    "qty": "ca. 2,2–2,6 kg",
+    "id": "item-46"
+  },
+  {
+    "store": "maximat",
+    "category": "Kjøtt og fisk",
+    "name": "Bacon",
+    "qty": "2 pakker",
+    "id": "item-47"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Ferdig kryddersmør",
+    "qty": "1 pakke",
+    "id": "item-48"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Ferdig tzatziki",
+    "qty": "1 stor eller 2 små",
+    "id": "item-49"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Aioli",
+    "qty": "1 lite glass",
+    "id": "item-50"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Potetsalat",
+    "qty": "1 mellomstor boks",
+    "id": "item-51"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Pesto",
+    "qty": "1 lite glass",
+    "id": "item-52"
+  },
+  {
+    "store": "maximat",
+    "category": "Ferdig tilbehør",
+    "name": "Hummus",
+    "qty": "1 liten boks",
+    "id": "item-53"
+  },
+  {
+    "store": "maximat",
+    "category": "Brød og bakeri",
+    "name": "Surdeigsbrød",
+    "qty": "1 stk",
+    "id": "item-54"
+  },
+  {
+    "store": "maximat",
+    "category": "Brød og bakeri",
+    "name": "Kornbrød",
+    "qty": "1 stk",
+    "id": "item-55"
+  },
+  {
+    "store": "maximat",
+    "category": "Brød og bakeri",
+    "name": "Kanelboller",
+    "qty": "4–6 stk",
+    "id": "item-56"
+  },
+  {
+    "store": "maximat",
+    "category": "Brød og bakeri",
+    "name": "Tynt knekkebrød",
+    "qty": "1 pakke",
+    "id": "item-57"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Marcona-mandler eller gode mandler",
+    "qty": "1 pose",
+    "id": "item-58"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Valnøtter",
+    "qty": "1 liten pose",
+    "id": "item-59"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Pistasjnøtter",
+    "qty": "1 pose",
+    "id": "item-60"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Chips",
+    "qty": "3 poser totalt",
+    "id": "item-61"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Mørk sjokolade 70 %",
+    "qty": "2 plater",
+    "id": "item-62"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Annen sjokolade",
+    "qty": "2 plater",
+    "id": "item-63"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Snacks og søtt",
+    "name": "Godteri/smågodt",
+    "qty": "ca. 500–700 g",
+    "id": "item-64"
+  },
+  {
+    "store": "gottebiten",
+    "category": "Drikke",
+    "name": "Cherry-brus uten sukker",
+    "qty": "24 bokser – Pepsi Max Cherry eller Coca-Cola Zero Cherry",
+    "id": "item-65"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Rødvinseddik",
+    "qty": "1 flaske",
+    "id": "item-66"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Flaksalt",
+    "qty": "1 pakke",
+    "id": "item-67"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Sort pepper",
+    "qty": "1 pakke/kvern",
+    "id": "item-68"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Dijon",
+    "qty": "1 lite glass",
+    "id": "item-69"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Kapers",
+    "qty": "1 lite glass",
+    "id": "item-70"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Honning",
+    "qty": "1 glass",
+    "id": "item-71"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Økologisk peanøttsmør",
+    "qty": "1 glass",
+    "id": "item-72"
+  },
+  {
+    "store": "maximat",
+    "category": "Kolonial",
+    "name": "Kaffe",
+    "qty": "Etter behov",
+    "id": "item-73"
+  },
+  {
+    "store": "maximat",
+    "category": "Frys",
+    "name": "Økologiske blåbær",
+    "qty": "1 pose – kun hvis fryseplass",
+    "id": "item-74"
+  },
+  {
+    "store": "maximat",
+    "category": "Frys",
+    "name": "Bringebær",
+    "qty": "1 pose – kun hvis fryseplass",
+    "id": "item-75"
+  },
+  {
+    "store": "maximat",
+    "category": "Drikke",
+    "name": "Boblevann / Ramlösa / Loka",
+    "qty": "1–2 brett totalt",
+    "id": "item-76"
+  },
+  {
+    "store": "maximat",
+    "category": "Drikke",
+    "name": "Sukkerfri brus",
+    "qty": "1–2 brett totalt, i tillegg til cherry-brus",
+    "id": "item-77"
+  },
+  {
+    "store": "maximat",
+    "category": "Drikke",
+    "name": "Eplemost",
+    "qty": "1–2 flasker",
+    "id": "item-78"
+  },
+  {
+    "store": "sbg",
+    "category": "Tobakk",
+    "name": "Skruf No. 25",
+    "qty": "10 bokser",
+    "id": "item-79"
+  }
+]
