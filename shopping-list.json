@@ -310,7 +310,7 @@
   {
     "store": "maximat",
     "category": "Kjøtt og fisk",
-    "name": "Laksefilet",
+    "name": "Laks, helside",
     "qty": "ca. 2,4–2,8 kg",
     "id": "item-44"
   },
@@ -558,5 +558,19 @@
     "name": "Skruf No. 25",
     "qty": "10 bokser",
     "id": "item-79"
-  }
+  },
+  {
+    "store": "maximat",
+    "category": "Drikke",
+    "name": "Capri-Sun Multivitamin & Cherry",
+    "qty": "2 bokser",
+    "id": "item-80"
+  },
+  {
+    "store": "maximat",
+    "category": "Frys",
+    "name": "Pommes Frites",
+    "qty": "1 pakke",
+    "id": "item-81"
+  },
 ]
